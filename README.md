@@ -3,8 +3,8 @@ Programs in java,Python,C &amp; C++ for same algorithm.
 
 ## Program List : Not So Easy
 
-### [1. Write Program to check if two arrays are the same or not.]()
-### 2. Write Program to find the array type.
+### [1. Write Program to check if two arrays are the same or not.](https://github.com/Anshaadi/java_python_c_plusplus/tree/master/set4_1)
+### [2. Write Program to find the array type.](https://github.com/Anshaadi/java_python_c_plusplus/tree/master/set4_2)
 
 
 ## Program List : Easy
